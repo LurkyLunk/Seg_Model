@@ -47,10 +47,4 @@ Use `visualize.py` to visualize the segmentation results. Example usage:
 python visualize.py --image_path /path/to/image --model_path /path/to/model
 ```
 
-## License
 
-This project is licensed under the <Your License Name> - see the LICENSE.md file for details.
-
----
-
-Replace `<Your paper or repository reference>` and `<Your License Name>` with the appropriate details. Also, make sure to adjust the paths and other parameters to match your project's structure and requirements.
