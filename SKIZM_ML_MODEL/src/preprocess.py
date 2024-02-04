@@ -81,7 +81,7 @@ if __name__ == "__main__":
     print(f"Using device: {device}")
 
     # Dataset paths
-    DATASET_DIR = "/home/shki/Documents/CoCoDataset/subset"
+    DATASET_DIR = "/home/shki/Documents/CoCoDataset/train2017/Batch_10"
     ANNOTATIONS_PATH = "/home/shki/Documents/CoCoDataset/annotations/instances_train2017.json"
 
     # Loading dataset
